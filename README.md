@@ -2,7 +2,7 @@
 <h3 align="center">Software engineering student, passionate about technology.</h3>
 
 - 🌱 I’m currently learning **Java, Springboot, Golang, AWS, Data Structures**
-
+- 🔭 I’m currently working on [PLIN Energia](https://www.linkedin.com/company/plinenergia/)
 - 📫 How to reach me **matheushbaraldi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
