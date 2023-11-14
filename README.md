@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matheus Baraldi</h1>
 <h3 align="center">Software engineering student, passionate about technology.</h3>
 
-- 🌱 I’m currently learning **Java, Springboot, Golang, AWS, Data Structures**
-- 🔭 I’m currently working on [PLIN Energia](https://www.linkedin.com/company/plinenergia/)
 - 📫 How to reach me **matheushbaraldi@gmail.com**
+- 🌱 I’m currently learning **Java, Springboot, Golang, AWS, Docker, Kubernetes, Data Structures**
+- 🔭 I’m currently working on [PLIN Energia](https://www.linkedin.com/company/plinenergia/)
+- 💬 Ask me about **Typescript, NestJS, Prisma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
