@@ -2,9 +2,9 @@
 <h3 align="center">Software engineering student, passionate about technology.</h3>
 
 - 📫 How to reach me **matheushbaraldi@gmail.com**
-- 🌱 I’m currently learning **Java, Springboot, Golang, AWS, Docker, Kubernetes, Data Structures**
+- 🌱 I’m currently learning **Springboot, Golang, AWS, Docker, Data Structures, SOLID**
 - 🔭 I’m currently working at [PLIN Energia](https://www.linkedin.com/company/plinenergia/) as a Backend Developer
-- 💬 Ask me about **Typescript, NestJS, Prisma**
+- 💬 Ask me about **Typescript, NestJS, express, Prisma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
