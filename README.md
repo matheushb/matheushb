@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **matheushbaraldi@gmail.com**
 - 🌱 I’m currently learning **Springboot, Golang, AWS, Docker, Data Structures, SOLID**
-- 🔭 I’m currently working at [PLIN Energia](https://www.linkedin.com/company/plinenergia/) as a Backend Developer
+- 🔭 I’m currently working at [ENLIV Energia](https://www.linkedin.com/company/enlivenergia) as a Backend Developer
 - 💬 Ask me about **Typescript, NestJS, express, Prisma**
 
 <h3 align="left">Connect with me:</h3>
